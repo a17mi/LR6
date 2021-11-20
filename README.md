@@ -3,7 +3,7 @@
 
 Создаем копию репозитория в личное хранилище.
 
-![Image alt](https://github.com/a17mi/LR6/raw/reportMichurina/Screenshots/1.jpg)
+![Image alt](https://github.com/a17mi/LR6/raw/reportMichurina/Screenshots/1.JPG)
 
 Настраиваем клиент git, вводим имя пользователя и email, с помощью команд: git config --global user.name <username>; git config --global user.email <email>.
 
